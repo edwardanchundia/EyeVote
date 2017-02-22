@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>230984453680-rshq3fqqaalfk4jp0pih8sbin70j2hef.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.230984453680-rshq3fqqaalfk4jp0pih8sbin70j2hef</string>
+	<key>API_KEY</key>
+	<string>AIzaSyChibTmCF0t8ahRAjENlFTm7mIKEI-STD0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>230984453680</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>C4Q.EyeVote</string>
+	<key>PROJECT_ID</key>
+	<string>eyevotetest</string>
+	<key>STORAGE_BUCKET</key>
+	<string>eyevotetest.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:230984453680:ios:6dce2300547556a3</string>
+	<key>DATABASE_URL</key>
+	<string>https://eyevotetest.firebaseio.com</string>
+</dict>
+</plist>
